@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DsCatalogApplication<DSCatalog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dsCatalog.DSCatalog.DsCatalogApplication",
+            "projectName": "DSCatalog",
+            "args": ""
+        }
+    ]
+}
